@@ -6,7 +6,19 @@ Requirements
 
 This project requires:
 
-    * Python 3.9 or earlier
-    * PostgreSQL 12+
+    * Python 3.8 or earlier
     * poetry for local development
-    * docker for test image build (optional)
+
+Installation
+------------
+
+1. Instalar dependencias e criar maquina virtual
+
+::
+
+    $ poetry install
+    
+2. Iniciar a api: 
+
+::
+    $ flask run
