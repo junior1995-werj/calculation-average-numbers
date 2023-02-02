@@ -4,7 +4,7 @@ calculation-average-numbers
 Requirements
 ------------
 
-This project requires:
+Este projeto requer:
 
     * Python 3.8 or earlier
     * poetry for local development
@@ -17,7 +17,7 @@ Installation
          poetry install
     
 
-2. Iniciar a api: 
+2. Para executar a aplicação: 
 
          flask run
 
