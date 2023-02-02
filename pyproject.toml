@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "calculation-averge-numbers"
+version = "0.1.0"
+description = "Teste técnico da BISO para Engenheiro de Software"
+authors = ["Junior Werner <juninhowerner31@gmail.com>"]
+readme = "README.md"
+packages = [{include = "calculation_averge_numbers"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+flask = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
