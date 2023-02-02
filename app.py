@@ -1,4 +1,3 @@
-import json
 from flask import Flask, request
 
 from calculation_average_nunbers.calculation import *
